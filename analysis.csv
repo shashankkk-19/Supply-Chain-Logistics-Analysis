@@ -1,0 +1,13 @@
+Column Name,Business Meaning
+delivery_id,Unique delivery identifier
+delivery_partner,Logistics partner handling delivery
+package_type,Type of package delivered
+vehicle_type,Vehicle used for delivery
+delivery_mode,Delivery speed category
+region,Delivery region
+weather_condition,Weather during delivery
+distance_km,Distance traveled in kilometers
+package_weight_kg,Weight of package
+delivery_time_hours,Actual delivery time
+expected_time_hours,Expected delivery time
+delay,Whether delivery was delayed

@@ -1,0 +1,2 @@
+total_orders,fulfillment_rate_pct,backorder_rate_pct,avg_inventory_level,inventory_turnover,warehouse_utilization_pct,cost_per_unit
+1200,69.83,9.67,2530.47,253.18,34.06,111.2
